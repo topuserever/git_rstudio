@@ -24,3 +24,7 @@ This video might be very useful:
 https://www.youtube.com/watch?v=kL6L2MNqPHg
 And this link:
 https://swcarpentry.github.io/git-novice/14-supplemental-rstudio/
+
+## Ignore file from version control
+
+https://carpentries-incubator.github.io/git-Rstudio-course/02-ignore/index.html
