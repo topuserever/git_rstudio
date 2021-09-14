@@ -1,4 +1,4 @@
-# How to fork, edit and push using Git/RStudio
+# How to work, edit and push using Git/RStudio
 
 ## Steps for push
 1) Make sure you have linked Git with RStudio
