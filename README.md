@@ -20,5 +20,6 @@
 4) Type in the Terminal 'git reset --hard SHA' and press Enter
 5) Now the file is back to each previous version.
 
-
+This video might be very useful:
+https://www.youtube.com/watch?v=kL6L2MNqPHg
 
